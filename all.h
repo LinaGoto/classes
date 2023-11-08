@@ -1,6 +1,5 @@
 #ifndef ALL_H
 #define ALL_H
-#include <stdio.h>
 
 const int MAX_ENTRY=100;
 
